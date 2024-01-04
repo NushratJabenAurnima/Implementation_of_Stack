@@ -13,6 +13,8 @@ It follows the principle of Last in First out(LIFO).**
 **. Display**
 
   ## The system contains the following functions:
+  **. IsFull()**
+  
   **. IsEmpty()**
   
   **. push()**
